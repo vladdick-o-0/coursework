@@ -1,0 +1,12 @@
+C:\Users\vladboguzh\Downloads\Drawing\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\vladboguzh\Downloads\Drawing\Drawing\bin\Debug\Drawing.exe
+C:\Users\vladboguzh\Downloads\Drawing\Drawing\bin\Debug\Drawing.pdb
+C:\Users\vladboguzh\Downloads\Drawing\Drawing\obj\Debug\Drawing.csproj.AssemblyReference.cache
+C:\Users\vladboguzh\Downloads\Drawing\Drawing\obj\Debug\Drawing.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladboguzh\Downloads\Drawing\Drawing\obj\Debug\Drawing.Mandelbrot.resources
+C:\Users\vladboguzh\Downloads\Drawing\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\vladboguzh\Downloads\Drawing\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\vladboguzh\Downloads\Drawing\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\vladboguzh\Downloads\Drawing\Drawing\obj\Debug\Drawing.exe
+C:\Users\vladboguzh\Downloads\Drawing\Drawing\obj\Debug\Drawing.pdb
+C:\Users\vladboguzh\Downloads\Drawing\Drawing\obj\Debug\Drawing.Julia.resources
